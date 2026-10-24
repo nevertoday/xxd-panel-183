@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 183｜Dark Green Organic Corner Vignette: distils a photo's subject, outline and direction of movement into a small, asymmetric group of natural organic shapes — a few outlines, flat masses and flowing lines, sometimes supported by a sprig of leaves or flowers — gathered in one corner or along one edge, off-centre or slightly bleeding off, with the rest left as calm empty space. Cream, ivory and pale oat grounds are anchored by deep pine, ink and grey-green in the corner, with at most a touch of olive or a soft colour from the photo, and only a few thin serif or light sans words in charcoal. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-183 or asks for minimal botanical, corner-weighted, asymmetric whitespace graphics from a photo.",
+  "short_description": "深绿角隅自然图形：把照片主体概括成角落里一小组有机图形，奶油底色配深绿压角，大片留白",
+  "zh-CN": {
+    "name": "深绿角隅自然图形",
+    "tagline": "把照片主体概括成角落里的一小组自然图形，奶油底上用深绿压住一角。",
+    "look": "照片的主体、轮廓和走势被概括成少量轮廓、块面和线条，组成一小组自然有机的图形，集中在画面一角或一侧，可以偏心、贴边或轻微出界，其余是大片安静的留白。可以加极少的枝叶或花材作承托，但不会把每张照片都变成花束。底色是奶油白、象牙白、浅燕麦色，用深松针绿、墨绿、灰绿压住角落，偶尔点一点橄榄绿或原图里柔和的辨识色。文字只有几个细瘦的衬线或轻量无衬线字，用黑灰色，远远地放在留白里。",
+    "traits": [
+      "角隅构图",
+      "非对称留白",
+      "自然有机形",
+      "奶油底色",
+      "深绿压角"
+    ],
+    "good": [
+      "有清晰走势或轮廓的单一主体：一枝花、一只鸟、一道山脊、一个侧身的人",
+      "植物、花艺和安静的自然静物：盆栽、落叶、花瓶、石头",
+      "想用作文化品牌、生活方式或花艺刊物视觉的照片"
+    ],
+    "poor": [
+      "需要主体居中、占满画面的照片：证件照、商品主图",
+      "多个焦点同样重要的热闹场面：聚会、集市、合影",
+      "想要高饱和撞色、卡通感或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Dark Green Organic Corner Vignette",
+    "tagline": "Distils a photo's subject into a small cluster of natural shapes in one corner, anchored by deep green.",
+    "look": "The subject, outline and direction of movement in your photo become a few outlines, flat masses and lines, grouped as a small cluster of natural organic shapes in one corner or along one side; it can sit off-centre, touch the edge or run slightly off it, while the rest stays calm and empty. A sprig of leaves or flowers may support it, but not every photo is turned into a bouquet. The ground is cream, ivory or pale oat, the corner is weighted with deep pine, ink green or grey-green, and at most a touch of olive or a soft colour from the photo is added. Text is just a few thin serif or light sans-serif words in charcoal, placed well away in the whitespace.",
+    "traits": [
+      "Corner composition",
+      "Asymmetric whitespace",
+      "Organic shapes",
+      "Cream ground",
+      "Deep green anchor"
+    ],
+    "good": [
+      "A single subject with a clear outline or line of movement: a flower stem, a bird, a ridge line, a person in profile",
+      "Plants, flower arrangements and quiet natural still lifes: a potted plant, fallen leaves, a vase, a stone",
+      "Photos meant for a cultural brand, lifestyle visual or floral magazine page"
+    ],
+    "poor": [
+      "Photos that need the subject centred and filling the frame: ID photos, main product shots",
+      "Busy scenes with several equally important focal points: parties, markets, group photos",
+      "Requests for saturated clashing colour, a cartoon look or 3D"
+    ]
+  },
+  "ja": {
+    "name": "深緑のコーナー有機図形",
+    "tagline": "写真の主役を角に寄せた小さな自然図形にまとめ、クリーム地を深緑で引き締めます。",
+    "look": "写真の主役、輪郭、流れを少ない輪郭線や面、線に置き換え、自然な有機形の小さなまとまりとして画面の角か片側に集めます。中心を外したり、端に寄せたり、少しはみ出したりしてもよく、残りは静かな余白です。枝葉や花材をごく少し添えて支えることもありますが、すべての写真を花束にはしません。地はクリーム白、アイボリー、淡いオートミール色で、角を深い松葉色、墨緑、灰緑で押さえ、オリーブや写真の柔らかな特徴色をほんの少し加えます。文字は細いセリフ体か軽いサンセリフ体を数語だけ、黒に近いグレーで余白の離れた位置に置きます。",
+    "traits": [
+      "角の構図",
+      "非対称の余白",
+      "自然の有機形",
+      "クリームの地",
+      "深緑の重し"
+    ],
+    "good": [
+      "輪郭や流れがはっきりした単一の主役：一輪の花、一羽の鳥、山の稜線、横向きの人",
+      "植物、花、静かな自然の静物：鉢植え、落ち葉、花瓶、石",
+      "文化ブランド、ライフスタイル、花の雑誌のビジュアルにしたい写真"
+    ],
+    "poor": [
+      "主役を中央に大きく置く必要がある写真：証明写真、商品のメイン画像",
+      "見どころが同じ強さで複数ある賑やかな場面：パーティー、市場、集合写真",
+      "高彩度の強い配色、漫画風、3D の仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "짙은 녹색 모서리 유기 그래픽",
+    "tagline": "사진의 주인공을 한쪽 모서리의 작은 자연 형태로 모으고, 크림색 바탕을 짙은 녹색으로 눌러 줍니다.",
+    "look": "사진의 주인공, 윤곽, 흐름을 적은 수의 윤곽선, 면, 선으로 줄여 자연스러운 유기 형태의 작은 무리로 만들고 화면 한 모서리나 한쪽에 모읍니다. 중심에서 비켜나거나 가장자리에 붙거나 살짝 넘어가도 되고, 나머지는 고요한 여백으로 남깁니다. 잎이나 꽃을 조금 곁들여 받쳐 줄 수 있지만 모든 사진을 꽃다발로 바꾸지는 않습니다. 바탕은 크림색, 아이보리, 연한 귀리색이고 모서리를 짙은 솔잎색, 먹녹색, 회녹색으로 누르며 올리브색이나 사진 속 부드러운 특징색을 아주 조금만 더합니다. 글자는 가는 세리프나 가벼운 산세리프 몇 단어를 검회색으로 여백 멀리에 둡니다.",
+    "traits": [
+      "모서리 구도",
+      "비대칭 여백",
+      "자연 유기 형태",
+      "크림색 바탕",
+      "짙은 녹색 무게"
+    ],
+    "good": [
+      "윤곽이나 흐름이 분명한 하나의 주인공: 꽃 한 송이, 새 한 마리, 산 능선, 옆모습의 사람",
+      "식물, 꽃꽂이, 조용한 자연 정물: 화분, 낙엽, 꽃병, 돌",
+      "문화 브랜드, 라이프스타일, 플라워 매거진 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "주인공이 가운데에서 화면을 채워야 하는 사진: 증명사진, 상품 대표 이미지",
+      "초점이 여러 개로 똑같이 중요한 북적이는 장면: 파티, 시장, 단체 사진",
+      "고채도 대비색, 만화풍, 3D 효과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تكوين عضوي أخضر في الزاوية",
+    "tagline": "يختزل عنصر الصورة في مجموعة صغيرة من الأشكال الطبيعية في إحدى الزوايا، يثبّتها أخضر داكن فوق أرضية كريمية.",
+    "look": "يتحول العنصر وحدوده واتجاه حركته في صورتك إلى خطوط خارجية وكتل مسطحة وخطوط قليلة، تتجمع في مجموعة صغيرة من الأشكال العضوية الطبيعية في زاوية واحدة أو على أحد الجوانب؛ قد تبتعد عن المركز أو تلامس الحافة أو تتجاوزها قليلاً، ويبقى الباقي فراغاً هادئاً. قد يسندها غصن أوراق أو زهور، لكن لا تتحول كل صورة إلى باقة. الأرضية بلون الكريم أو العاجي أو الشوفان الفاتح، وتُثقَّل الزاوية بأخضر الصنوبر الداكن والأخضر الحبري والأخضر الرمادي، مع لمسة زيتونية أو لون ناعم من الصورة على الأكثر. النص كلمات قليلة بخط رفيع مذيَّل أو خط خفيف غير مذيَّل بلون رمادي فحمي، بعيداً داخل الفراغ.",
+    "traits": [
+      "تكوين في الزاوية",
+      "فراغ غير متماثل",
+      "أشكال عضوية",
+      "أرضية كريمية",
+      "ثقل أخضر داكن"
+    ],
+    "good": [
+      "عنصر واحد واضح الحدود أو الاتجاه: ساق زهرة، طائر، خط قمة جبل، شخص من الجانب",
+      "النباتات وتنسيقات الزهور والطبيعة الصامتة الهادئة: نبتة في أصيص، أوراق متساقطة، مزهرية، حجر",
+      "صور مخصصة لهوية ثقافية أو مرئيات أسلوب حياة أو صفحة مجلة زهور"
+    ],
+    "poor": [
+      "صور تحتاج إلى عنصر في المنتصف يملأ الإطار: صور الهوية، الصور الرئيسية للمنتجات",
+      "مشاهد مزدحمة بعدة نقاط تركيز متساوية الأهمية: الحفلات، الأسواق، الصور الجماعية",
+      "طلب ألوان مشبعة متضاربة أو مظهر كرتوني أو ثلاثي الأبعاد"
+    ]
+  }
+}
